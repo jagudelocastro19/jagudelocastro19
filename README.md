@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I´m Sebas
 
+<p align='center'> 👨‍💻 Platzi Student
+
+👨‍💻 Analista de Soporte en BTG Pactual
+🔍 Entusiasta de la tecnología y Geek apasionado
+🏍️ Amante de las motos, los viajes y la adrenalina
 
 :computer: **Analista de Soporte en BTGPactual**
 :eyeglasses: **Entusiasta de la tecnología y Geek apasionado**

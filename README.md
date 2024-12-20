@@ -1,14 +1,10 @@
 ## Hi there 👋, I´m Sebas
 
-<p align='center'> 👨‍💻 Platzi Student
+<p align='center'> 👨‍💻 Dev Junior │ 🔍Platzi Student
 
-👨‍💻 Analista de Soporte en BTG Pactual
-🔍 Entusiasta de la tecnología y Geek apasionado
-🏍️ Amante de las motos, los viajes y la adrenalina
-
-:computer: **Analista de Soporte en BTGPactual**
-:eyeglasses: **Entusiasta de la tecnología y Geek apasionado**
-:motorcycle: **Amante de las motos, los viajes y la adrenalina**
+:computer: **Analista de Soporte en BTGPactual**<br>
+:eyeglasses: **Entusiasta de la tecnología y Geek apasionado**<br>
+:motorcycle: **Amante de las motos, los viajes y la adrenalina**<br>
 
 ###Vias de contacto
 ![website](https://img.shields.io/badge/jagudelocastro19.com-up-green?style=for-the-badge)

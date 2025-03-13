@@ -13,9 +13,7 @@
 
 ### :zap: Actividad reciente
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/jagudelocastro19/jagudelocastro19)
-
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/jagudelocastro19/jagudelocastro19/:branch)
+[![Commits Activity](https://img.shields.io/github/commit-activity/w/jagudelocastro19/jagudelocastro19)](https://github.com/jagudelocastro19/jagudelocastro19)
 
 <!--START_SECTION:activity-->
 

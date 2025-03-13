@@ -11,9 +11,12 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-sebastian-agudelo-castro-2635b5141%2F)
 
+### :zap: Actividad reciente
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/jagudelocastro19/jagudelocastro19)
 
-### :zap: Actividad reciente
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/jagudelocastro19/jagudelocastro19/:branch)
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->

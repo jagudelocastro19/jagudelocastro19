@@ -19,9 +19,8 @@
 
 :computer: ##Tech Stack
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-
-![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) GitHub
+- [Python](https://www.python.org/)
+- [GitHub](https://github.com/)
 
 
 <!--START_SECTION:activity-->

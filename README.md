@@ -2,6 +2,8 @@
 
 <p align='center'> 👨‍💻 Dev Junior │ 🔍Platzi Student
 
+##About Me
+
 :computer: **Analista de Soporte en BTGPactual**<br>
 :eyeglasses: **Entusiasta de la tecnología y Geek apasionado**<br>
 :motorcycle: **Amante de las motos, los viajes y la adrenalina**<br>
@@ -14,6 +16,13 @@
 ### :zap: Actividad reciente
 
 [![Commits Activity](https://img.shields.io/github/commit-activity/w/jagudelocastro19/jagudelocastro19)](https://github.com/jagudelocastro19/jagudelocastro19)
+
+:computer: ##Tech Stack
+
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+
+![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) GitHub
+
 
 <!--START_SECTION:activity-->
 

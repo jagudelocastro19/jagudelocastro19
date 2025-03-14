@@ -22,6 +22,12 @@
 - [Python](https://www.python.org/)
 - [GitHub](https://github.com/)
 
+### Mis redes sociales
+
+- [Instagram](https://www.instagram.com/agudelo_js/?hl=es)
+- [GitHub](https://github.com/jagudelocastro19)
+- [Linkedin](https://www.linkedin.com/in/john-sebastian-agudelo-castro-2635b5141/)
+
 
 <!--START_SECTION:activity-->
 

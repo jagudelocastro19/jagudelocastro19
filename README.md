@@ -22,7 +22,7 @@
 - [Python](https://www.python.org/)
 - [GitHub](https://github.com/)
 
-### Mis redes sociales
+### My social networks
 
 - [Instagram](https://www.instagram.com/agudelo_js/?hl=es)
 - [GitHub](https://github.com/jagudelocastro19)
